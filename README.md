@@ -1,4 +1,4 @@
-# Welcome to Kedar page
+# Welcome to Kedar's page
 Automatic Language Translator using GUI
 
 1.1 Introduction: 
